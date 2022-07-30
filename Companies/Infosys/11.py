@@ -1,0 +1,1 @@
+# You are given an array A of length N and an integer K.
